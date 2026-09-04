@@ -1,0 +1,13 @@
+My Python Learning Notes
+=======================
+
+Topics covered today:
+- NumPy installation
+- File handling with os.listdir()
+- List comprehensions
+
+Next steps:
+- Practice pandas
+- Start scikit-learn tutorials
+
+Date: 2026-09-04

@@ -1,0 +1,18 @@
+AI Learning Project
+===================
+
+This project contains:
+- Data preprocessing scripts
+- ML model implementations
+- Jupyter notebooks
+
+Requirements:
+- Python 3.8+
+- NumPy, Pandas, Scikit-learn
+
+To get started:
+1. pip install -r requirements.txt
+2. jupyter lab
+3. Open notebooks/exploration.ipynb
+
+Last updated: September 2026

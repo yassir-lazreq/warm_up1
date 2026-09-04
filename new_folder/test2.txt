@@ -1,0 +1,11 @@
+ID,Name,Score,Grade
+1,Alice,95,A
+2,Bob,87,B
+3,Charlie,92,A
+4,Diana,78,C
+5,Eve,88,B
+
+Summary:
+- Average: 88.0
+- Highest: 95 (Alice)
+- Lowest: 78 (Diana)
